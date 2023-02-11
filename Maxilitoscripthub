@@ -1,0 +1,51 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("Maxilitoscripthub ", "DarkTheme")
+
+-- Maxilitoscript
+
+local Maxilitoscript = Window:NewTab ("Maxilitoscript")
+
+local MaxilitoscriptSection = Maxilitoscript:NewSection("Maxilitoscript")
+
+MaxilitoscriptSection:NewButton("Fe abyss eye", " Fe abyss eye", function()
+
+    loadstring(game:HttpGet('https://pastebin.com/raw/bj8VWh0S'))()
+
+end)
+
+MaxilitoscriptSection:NewButton("Fe chaostic star glitcher", " Fe chaostic star glitcher", function()
+
+    loadstring(game:HttpGet ("https://pastebin.com/raw/78RCFP9G"))();
+
+end)
+
+MaxilitoscriptSection:NewButton("Fe ruin ex", " Fe ruin ex", function()
+
+    loadstring(game:HttpGet ("https://pastebin.com/raw/bb7DqaSA"))();
+
+end)
+
+MaxilitoscriptSection:NewButton("Fe kyu's ender", " Fe kyu's ender", function()
+
+    loadstring(game:HttpGet ("https://pastebin.com/raw/yqMYKAdU"))();
+
+end)
+
+MaxilitoscriptSection:NewButton("Fe xester", " Fe xester", function()
+
+    loadstring(game:HttpGet ("https://pastebin.com/raw/tmmiXCLT"))();
+
+end)
+
+MaxilitoscriptSection:NewButton("Fe nebula's ender", " Fe nebula's ender", function()
+
+    loadstring(game:HttpGet ("https://pastebin.com/raw/hZyf203H"))();
+
+end)
+
+MaxilitoscriptSection:NewButton("Fe killbot", " Fe killbot", function()
+
+    loadstring(game:HttpGet ("https://pastebin.com/raw/1gkepSTB"))();
+
+end)
